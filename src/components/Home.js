@@ -32,7 +32,7 @@ export default function Home() {
     const { ref:ref9 } = useWebAnimations({ ...fadeInLeft });
     const { ref:ref10 } = useWebAnimations({ ...fadeInLeft });
     
-    const refs = [ref2, ref3, ref4, ref5, ref6, ref7];
+    const refs = [ref2, ref3, ref4, ref5, ref6, ref7,ref8,ref9,ref10];
     return (
         <div>
             <h1 ref={ref} style={{"textAlign": "center"}}>Founders of some famous companies</h1>
