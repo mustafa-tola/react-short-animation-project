@@ -1,0 +1,47 @@
+{
+    "travis-kalanick": {
+        "name": "Travis Kalanick",
+        "img": "https://i.ibb.co/qJYYHQs/image-removebg-preview.png",
+        "desc": "Travis Cordell Kalanick (born August 6, 1976) is an American businessman. He is the co-founder of Scour, a peer-to-peer file sharing application; Red Swoosh, a peer-to-peer content delivery network; and Uber, a transportation network company. Red Swoosh was sold to Akamai Technologies in 2007. Kalanick is the co-founder and former CEO of Uber, a position he held from 2010 to 2017. He resigned from Uber in 2017, after controversy over the company's reported unethical culture, including allegations that he ignored reports of sexual harassment at the company. In the weeks leading up to a December 24th, 2019 announcement that he would resign his Board seat effective December 31, Kalanick sold off approximately 90% of his shares in Uber."
+    },
+    "mark-zuckerburg": {
+        "name": "Mark Zuckerburg",
+        "img": "https://i.ibb.co/sRCvM1B/image-removebg-preview.png",
+        "desc": "Mark Elliot Zuckerberg ( born May 14, 1984) is an American media magnate, internet entrepreneur, and philanthropist. He is known for co-founding Facebook, Inc. and serves as its chairman, chief executive officer, and controlling shareholder. He also is a co-founder of the solar sail spacecraft development project Breakthrough Starshot and serves as one of its board members."
+    },
+    "jeff-bezos": {
+        "name": "Jeff Bezos",
+        "img": "https://i.ibb.co/4ZjYPvh/image.png",
+        "desc": "Jeffrey Preston Bezos ( born January 12, 1964) is an American internet entrepreneur, industrialist, media proprietor, and investor. He is best known as the founder, CEO, and president of the multi-national technology company Amazon. The first centi-billionaire on the Forbes wealth index, Bezos has been the world's richest person since 2017 and was named the richest man in modern history after his net worth increased to $150 billion in July 2018. In September 2018, Forbes described him as far richer than anyone else on the planet as he added $1.8 billion to his net worth when Amazon became the second company in history to reach a market cap of $1 trillion."
+    },
+    "jack-ma": {
+        "name": "Jack Ma",
+        "img": "https://i.ibb.co/K9RVrXZ/jack-ma.png",
+        "desc": "Jack Ma, or Ma Yun, is a Chinese business magnate, investor and philanthropist. He is the co-founder and former executive chairman of Alibaba Group, a multinational technology conglomerate. Ma is a strong proponent of an open and market-driven economy."
+    },
+    "bill-gates": {
+        "name": "Bill Gates",
+        "img": "https://i.ibb.co/QpcYqV2/bill-gates.png",
+        "desc": "William Henry Gates III (born October 28, 1955) is an American business magnate, software developer, investor, and philanthropist. He is best known as the co-founder of Microsoft Corporation. During his career at Microsoft, Gates held the positions of chairman, chief executive officer (CEO), president and chief software architect, while also being the largest individual shareholder until May 2014. He is one of the best-known entrepreneurs and pioneers of the microcomputer revolution of the 1970s and 1980s."
+    },
+    "andrew-ng": {
+        "name": "Andrew NG",
+        "img": "https://i.ibb.co/ZhSRV16/andrew-ng.png",
+        "desc": "Andrew Yan-Tak Ng ( born 1976) is a British-born American businessman, computer scientist, investor, and writer. He is focusing on machine learning and AI. As a businessman and investor, Ng co-founded and led Google Brain and was a former Vice President and Chief Scientist at Baidu, building the company's Artificial Intelligence Group into a team of several thousand people."
+    },
+    "elon-musk": {
+        "name": "Elon Musk",
+        "img": "https://i.ibb.co/kGygxm3/image-removebg-preview.png",
+        "desc": "Elon Reeve Musk ( born June 28, 1971) is an engineer, industrial designer, technology entrepreneur and philanthropist. He is the founder, CEO, CTO and chief designer of SpaceX; early investor, CEO and product architect of Tesla, Inc.; founder of The Boring Company; co-founder of Neuralink; and co-founder and initial co-chairman of OpenAI. He was elected a Fellow of the Royal Society (FRS) in 2018. In December 2016, he was ranked 21st on the Forbes list of The World's Most Powerful People, and was ranked joint-first on the Forbes list of the Most Innovative Leaders of 2019. As of July 20, 2020 his net worth was estimated at $74.2 billion and he is listed by Forbes as the 5th-richest person in the world. He is the longest tenured CEO of any automotive manufacturer globally."        
+    },
+    "steve-jobs": {
+        "name": "Steve Jobs",
+        "img": "https://i.ibb.co/bWcHX82/image.png",
+        "desc": "Steven Paul Jobs ( February 24, 1955 – October 5, 2011) was an American business magnate, industrial designer, investor, and media proprietor. He was the chairman, chief executive officer (CEO), and co-founder of Apple Inc., the chairman and majority shareholder of Pixar, a member of The Walt Disney Company's board of directors following its acquisition of Pixar, and the founder, chairman, and CEO of NeXT. Jobs is widely recognized as a pioneer of the personal computer revolution of the 1970s and 1980s, along with Apple co-founder Steve Wozniak."
+    },
+    "warren-buffet": {
+        "name": "Warren Buffet",
+        "img": "https://i.ibb.co/KsM5P19/image.png",
+        "desc": "Warren Edward Buffett ( born August 30, 1930) is an American investor, business tycoon, and philanthropist, who is the chairman and CEO of Berkshire Hathaway. He is considered one of the most successful investors in the world and has a net worth of US$71.8 billion as of July 2020, making him the fourth-wealthiest person in the world."
+    }
+}
