@@ -28,6 +28,10 @@ export default function Home() {
     const { ref: ref5 } = useWebAnimations({ ...zoomIn });
     const { ref: ref6 } = useWebAnimations({ ...zoomIn });
     const { ref: ref7 } = useWebAnimations({ ...zoomIn });
+    const { ref:ref8 } = useWebAnimations({ ...fadeInLeft });
+    const { ref:ref9 } = useWebAnimations({ ...fadeInLeft });
+    const { ref:ref10 } = useWebAnimations({ ...fadeInLeft });
+    
     const refs = [ref2, ref3, ref4, ref5, ref6, ref7];
     return (
         <div>
